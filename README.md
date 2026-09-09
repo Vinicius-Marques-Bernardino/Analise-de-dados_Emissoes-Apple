@@ -1,4 +1,4 @@
-# PROJETO DE ANÁLISE DE DADOS \<br\>Meta de Carbono zero até 2030 da Apple
+# PROJETO DE ANÁLISE DE DADOS <br>Meta de Carbono zero até 2030 da Apple
 
 Em um cenário cada vez mais orientado por dados, transformar informações disponíveis em insights relevantes tornou-se uma habilidade importante para compreender problemas e apoiar a tomada de decisões.
 
