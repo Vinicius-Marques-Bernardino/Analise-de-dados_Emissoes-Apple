@@ -3,7 +3,9 @@
 Em um cenário cada vez mais orientado por dados, transformar informações disponíveis em insights relevantes tornou-se uma habilidade importante para compreender problemas e apoiar a tomada de decisões.
 
 ## 1 INTRODUÇÃO 🏭  
- Neste projeto, foi realizada uma análise das emissões de gases de efeito estufa da Apple entre 2015 e 2022, buscando compreender a evolução de suas emissões, avaliar o ritmo de redução em relação à meta de 2030 e investigar sua relação com o desempenho econômico da empresa. Para isso, foram utilizadas ferramentas como MySQL e Python, aplicando técnicas de validação, análise exploratória, estatística e visualização de dados. A partir desse processo, os dados foram transformados em informações capazes de responder a perguntas de negócio e revelar padrões relevantes sobre o desempenho ambiental e econômico da empresa.
+ Neste projeto, foi realizada uma análise das emissões de gases de efeito estufa da Apple entre 2015 e 2022, buscando compreender a evolução de suas emissões, avaliar o ritmo de redução em relação à meta de 2030 e investigar sua relação com o desempenho econômico da empresa. 
+ 
+ Para isso, foram utilizadas ferramentas como MySQL e Python, aplicando técnicas de validação, análise exploratória, estatística e visualização de dados. A partir desse processo, os dados foram transformados em informações capazes de responder a perguntas de negócio e revelar padrões relevantes sobre o desempenho ambiental e econômico da empresa.
 
 ## 2 OBJETIVO 📈  
 A empresa Apple, umas das maiores do mercado mundial, comprometeu-se com uma meta ousada: reduzir as emissões de gás carbônico para zero até 2030\. Para verificar essa ação e seus efeitos, fará-se uma análise detalhada da emissão dos gases de efeito estufa causados pela Apple nos últimos anos através de uma base de dados disponibilizada online e analisar a atuação da empresa nesse projeto ambicioso. Dessa forma, descobrindo como uma das maiores empresas lida com questões relacionadas à sustentabilidade e preservação do meio-ambiente.
