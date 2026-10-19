@@ -13,7 +13,7 @@ A empresa Apple, umas das maiores do mercado mundial, comprometeu-se com uma met
 ## 3 TECNOLOGIA E HABILIDADES UTILIZADAS 🧠  
 ### 3.1 Tecnologias e Ferramentas
 
-| Habilidade                                   | Aplicação                                                                                          |
+| Tecnologia                                   | Aplicação                                                                                          |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **SQL / MySQL**                              | Consultas para validação, exploração, agregações, agrupamentos e relacionamento entre tabelas.                        |
 | **Data Cleaning & Data Validation**          | Verificação de valores nulos, duplicidades, domínios, registros inconsistentes e valores atípicos.                    |
