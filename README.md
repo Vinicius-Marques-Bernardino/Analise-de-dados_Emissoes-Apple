@@ -113,7 +113,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Evolução das emissões anuais](images/images/Evolucao_emissoes_e_remocoes.png)
+![Evolução das emissões anuais](images/Evolucao_emissoes_e_remocoes.png)
 
 A separação entre emissões brutas e remoções ajuda a evitar que os valores negativos ocultem comportamentos distintos na série.
 
@@ -164,7 +164,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Projeção de emissões até 2030](images/images/Projecao_emissoes2030.png)
+![Projeção de emissões até 2030](images/Projecao_emissoes2030.png)
 
 Foram comparados o cenário baseado no CAGR histórico, uma trajetória linear de redução e a redução linear necessária para chegar a zero no horizonte considerado. São cenários ilustrativos, não previsões do desempenho real da empresa.
 
